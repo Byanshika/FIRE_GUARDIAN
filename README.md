@@ -59,5 +59,3 @@ Edit
 flask run
 Access in Browser: Open http://127.0.0.1:5000/
 
-📄 Project Report
-A detailed description of the system, workflow, and implementation is available in the attached file Fire_detection_Report.docx in the repositor
